@@ -1,0 +1,8 @@
+﻿  MP_P3_G30.cpp
+C:\Users\David\Desktop\inf5g\PRIMERO\2 CUATRIMESTRE\MP\PRACTICAS\Nueva carpeta\MP_P3_G30\MP_P3_G30\MP_P3_G30.cpp(77,33): warning C4474: "printf": se pasaron demasiados argumentos para la cadena de formato
+  C:\Users\David\Desktop\inf5g\PRIMERO\2 CUATRIMESTRE\MP\PRACTICAS\Nueva carpeta\MP_P3_G30\MP_P3_G30\MP_P3_G30.cpp(77,33):
+  los marcadores de posición y sus parámetros esperan 0 argumentos variádicos, pero se proporcionaron 1
+  
+C:\Users\David\Desktop\inf5g\PRIMERO\2 CUATRIMESTRE\MP\PRACTICAS\Nueva carpeta\MP_P3_G30\MP_P3_G30\MP_P3_G30.cpp(166,51): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\David\Desktop\inf5g\PRIMERO\2 CUATRIMESTRE\MP\PRACTICAS\Nueva carpeta\MP_P3_G30\MP_P3_G30\MP_P3_G30.cpp(158,33): warning C4101: 'resto': variable local sin referencia
+  MP_P3_G30.vcxproj -> C:\Users\David\Desktop\inf5g\PRIMERO\2 CUATRIMESTRE\MP\PRACTICAS\Nueva carpeta\MP_P3_G30\x64\Debug\MP_P3_G30.exe
